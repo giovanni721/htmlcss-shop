@@ -1,0 +1,25 @@
+.container{
+    position: relative;
+    display: inline-block;
+}
+
+.ipad{
+    background-color: green;
+    position: absolute;
+    top: 2%;
+    right: 2%;
+}
+
+.iphone{
+    background-color: red;
+    position: absolute;
+    top: 2%;
+    right: 2%;
+}
+
+.beats{
+    background-color: green;
+    position: absolute;
+    top: 2%;
+    right: 2%;
+}
